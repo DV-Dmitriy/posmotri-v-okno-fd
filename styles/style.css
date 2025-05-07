@@ -73,7 +73,7 @@ ol {
 }
 
 .content__list-container {
-  max-height: 298px;
+  height: 298px;
   overflow: auto;
   position:relative;
 }
